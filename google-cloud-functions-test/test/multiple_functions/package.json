@@ -1,0 +1,8 @@
+{
+  "name": "gcf-functions",
+  "version": "0.0.1",
+  "main": "gcf.js",
+  "dependencies": {
+    "gcloud": "0.15.0"
+  }
+}

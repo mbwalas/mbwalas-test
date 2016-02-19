@@ -1,0 +1,12 @@
+{
+  "name": "uppercase-to-pubsub",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node function.js"
+  },
+  "main": "function.js",
+  "dependencies": {
+    "gcloud": "0.15.0"
+  },
+  "private": true
+}
